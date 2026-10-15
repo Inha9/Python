@@ -1,0 +1,26 @@
+#print("Gayratxujaev Bilolxuja")
+#print(56+46)
+# print(5*5)
+#print(10//3)
+#print(10%3)
+#print(3%5)
+#print(2**10)
+#print("Hello " + "15")
+#print("Hello "+15) 
+#schoolNumber = 288
+#school_number = 234
+
+#print("Gayratxujaev " + "Bilolxuja" )
+#print(13+5)
+#print(14-6)
+#print(2 * 6)
+#print(14 / 7)
+#print(14 // 7)
+#print(14 % 7)
+
+#print(90+90)
+#print(90-9)
+#print(9 * 9)
+#print(81 / 9)
+#print(81 // 9)
+#print(13 % 4)
